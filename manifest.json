@@ -1,0 +1,11 @@
+{
+  "name": "拼音大冒险",
+  "short_name": "拼音大冒险",
+  "description": "幼儿园升小学拼音学习游戏",
+  "start_url": "./pinyin-adventure.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E8F4FD",
+  "theme_color": "#FFD93D",
+  "icons": []
+}

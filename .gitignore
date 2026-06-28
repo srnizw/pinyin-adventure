@@ -1,0 +1,6 @@
+# 拼音大冒险 - Git忽略
+*.pyc
+__pycache__/
+*.py
+!serve.py
+.DS_Store
